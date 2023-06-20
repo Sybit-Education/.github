@@ -1,6 +1,6 @@
 ## Sybit Education 👋
 
-Repository Organisation to teach juniors at [Sybit Gmbh](https://www.sybit.de).
+Repository Organisation to teach juniors at [Sybit GmbH](https://www.sybit.de).
 
 ### Open Source Donation
 
@@ -11,6 +11,11 @@ Repository Organisation to teach juniors at [Sybit Gmbh](https://www.sybit.de).
 
 ### Sybit Coding Camps
 
+TBD
+
+### Girls' Days
+
+TBD
 
 ### About Sybit
 
